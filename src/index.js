@@ -1,3 +1,4 @@
 var v = {
-  test: "a"
+  test: "a",
+  t: "b"
 };
