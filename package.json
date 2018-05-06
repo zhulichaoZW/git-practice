@@ -1,0 +1,16 @@
+{
+  "name": "git-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zhulichaoZW/git-practice.git",
+  "author": "zhulichao <zhulichao@zhiwen.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "prettier": "1.12.1",
+    "pretty-quick": "^1.4.1"
+  },
+  "scripts": {
+    "precommit": "pretty-quick --staged"
+  }
+}
