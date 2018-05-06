@@ -1,1 +1,3 @@
-var v = 2;
+var v = {
+  test: "a"
+};
